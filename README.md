@@ -38,26 +38,7 @@
 </p>
 
 ---
-## 📊 GitHub Status
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rohanlambar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=rohanlambar&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlambar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
-
----
 
 
 
